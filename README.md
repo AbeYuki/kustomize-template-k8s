@@ -1,0 +1,1 @@
+# kustomize-template-k8s
